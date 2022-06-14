@@ -1,8 +1,8 @@
-100 - 199 -> Informational (Development)
+100 - 199 -> Informational (In Development)
 
 200 - 299 -> Successful     (feature/F1)
 
-300 - 399 -> Redirection
+300 - 399 -> Redirection    (Feature/F2)
 
 400 - 499 -> Client Error
 
