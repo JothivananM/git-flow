@@ -1,4 +1,4 @@
-100 - 199 -> Informational (Development)
+100 - 199 -> Informational (In Development)
 
 200 - 299 -> Successful 
 
